@@ -1,3 +1,5 @@
+![Programação-ONE_ Jogo do Número Secreto](https://github.com/user-attachments/assets/47163479-488e-4a38-a023-391ca61cf091)
+
 <h1 align="center">:star: Projeto: Jogo do Número Secreto</h1>
 
 <p align="justify"> <h2>:rocket: Objetivo:</h2>
@@ -23,6 +25,6 @@ Foram aplicados os conhecimentos adquiridos durante os seguintes cursos:<br/>
 <h2>:computer: Tecnologias:</h2>
 - HTML;<br/>
 - CSS;<br/>
-- Git.<br/>
+- Git.<br/><br/>
 
 Obs.: O projeto ainda não está responsivo, e passará pelas devidas modificações em um futuro próximo!
